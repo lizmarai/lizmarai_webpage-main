@@ -8,25 +8,21 @@ I am an educator, a scientist, a researcher, and an inventor. My
 research is in human-centered data science, with a focus on visual computing and analysis, an area of computer science that
 handles images, 2D and 3D models, and the interaction between humans and data
 that can be represented visually. I am a Professor of [Computer
-Science](https://www.cs.uic.edu), a designated [University of Illinois Scholar](https://faculty.uic.edu/2023-university-scholar-recipients/) (Chicago, Springfield,
+Science](https://www.cs.uic.edu) at the [University of Illinois
+Chicago](http://www.uic.edu), a designated [University of Illinois Scholar](https://faculty.uic.edu/2023-university-scholar-recipients/) (Chicago, Springfield,
 Urbana-Champaign), a founder and Director of the UIC
 [Institute for Health Data Science Research](http://hds.uic.edu),
-and a faculty member of the
-[Electronic Visualization Laboratory (EVL)](http://www.evl.uic.edu) at the [University of Illinois
-Chicago](http://www.uic.edu). The lab's [research pages](https://www.evl.uic.edu/research) are the best place to learn more
-about my current work. Almost all my papers are publicly available
-through the EVL website.
+and a designated Distinguished Contributor to the [IEEE Computer
+Society](https://www.computer.org/membership/distinguished-contributors#charter). 
 
 # affiliations
 I am a chartered
 [National Institutes of Health study section](https://public.era.nih.gov/pubroster/roster.era?CID=105251)
 member (2024-2028). I am a [UIC Senator](https://senate.uic.edu/)
-(2023-2026) representing the College of Engineering, and I serve on the UIC Senate
+(2023-2028) representing the College of Engineering, and I serve on the UIC Senate
 Research Committee. I am a Faculty Fellow in the [UIC Honors College](https://honors.uic.edu/).  I am a full member of the
 [University of Illinois Cancer Center](https://cancer.uillinois.edu/)
-(UICC) and a member of the
-[Discovery Partners Institute](https://dpi.uillinois.edu/) (DPI),
-where I currently serve on the DPI Executive Committee. 
+(UICC). 
 
 # research awards
 My research has been recognized by peers with a US National Science
@@ -41,8 +37,8 @@ scientific open-source software adopted all over the world, from Ghana to Canada
 
 # teaching 
 I teach regularly the following courses in the CS department:
-  - [CS 529](http://evl.uic.edu/cs529/): Visual Data Science
-  - [CS 426](http://evl.uic.edu/cs426/): Video Game Design
+  - [CS 529](https://lizmarai.github.io/cs529web/): Visual Data Science
+  - [CS 426](https://lizmarai.github.io/cs426web/): Video Game Design
 
 I have received seven **Teaching Awards** for courses that blend teaching and research; although, or perhaps because, I often choose to experiment with my teaching and learn from the results. My lab's [teaching portfolio](http://www.youtube.com/user/VisualizLab) showcases some of the work produced by my students.
   
