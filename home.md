@@ -1,6 +1,7 @@
 ---
-photo: ../photos/marai.jpg
+name: Liz Marai
 title: Professor of Computer Science
+photo: ../photos/marailandscape.jpg
 ---
 
 # research interests 
