@@ -4,6 +4,249 @@ title: Struggling News Editor
 photo: ../photos/marai2.jpg
 ---
 
+# Distinguished Contributor of the IEEE Computer Society!
+_Sep 22, 2026_
+
+I am honored to be a designated [Distinguished Contributor (DC) to the IEEE Computer Society](https://www.computer.org/membership/distinguished-contributors)! This distinction honors fewer than 0.5% of the society members. From the accolades: _Recognition as a DC is a permanent designation honoring members and affiliates who have made significant and sustained technical contributions to computing, the Computer Society, the broader computing profession and community, and humanity. DC recognition is an acknowledgment of professional achievement, technical leadership, and sustained contributions to the computing community and affirms the difference their work has made to others._
+
+
+
+# New NIH R01 Smart and Connected Health (SCH) NIDCR award!
+_Sep 17, 2026_
+
+I am so incredibly happy to report we have received an NIH R01 award from NIDCR! 
+NIH R01 DE037101: SCH: Flavor Charter: Precision Data-Driven Diagnosis, Monitoring and Guidance for Dysgeusia, Lead PI on multi-site project with U Iowa, UIC Co-Is: X. Zhang, H. Esmailbeigi, A. Salahudeen, $1,157,399, 09/17/2026-09/16/2030. This high risk, high reward project was reviewed by the NSF Smart and Connected Health (SCH) program, and is being funded by NIH NIDCR. It's a huge deal, because UIC has not received an SCH award in several years, despite a robust number of submissions each year.
+
+# At VCBM 2026
+_Sep 15, 2026_
+
+So happy to be attending VCBM'26, where I am chairing a session, presenting two works from our group, and meeting so many dear colleagues.
+
+# New ACS Training award to the Cancer Center!
+_Sep 14, 2026_
+
+I am honored to be part of the Cancer Center team which received a training award from the [American Cancer Society (ACS)](https://www.cancer.org/): Advancing Urban Students in Medicine (AUSM) Post-Baccalaureate Program, Co-I (PI Paul Grippo; other Co-Is: J. Burdette, S. Kim, J. Kitajewski, A. Salahudeen, Y. Molina, L. Νοnn, L.M. Tussing-Humphreys), $660,000, 09/14/2026-09/13/2028. This is the same program which trained Bobo Lin with our group.
+
+
+# Siyuan dysphagia modeling paper at ICMLA'26
+_Sep 10, 2026_
+
+Congrats to Siyuan for an applied ML paper on modeling dysphagia from PROs: 
+S. Zhao, E. A. Anyimadu, Z. G. Brumm, Y. Ma, C. D. Fuller, X. Zhang, G. E. Marai, and G. Canahuate,
+Dysphagia Risk Stratification in Head and Neck Cancer via Two-Stage PRO-Clinical Stacking, ICMLA 2026 (<25% acceptance rate), Rochester, MI, Oct. 2026. This is collaborative work among the University of Iowa, University of California San Francisco, University of Texas, and University of  Illinois Chicago.
+
+
+# Farah physiological stress in VR paper
+_Sep 9, 2026_
+
+Congrats to EVL alumna Farah Kamleh on publising her BSMS project: 
+F. Kamleh, A. Johnson, G.E. Marai,
+The Effects of Virtual Reality Environments on Physiological Stress: A Platform Comparison Between Room-Scale Displays and Desktop Computers, IEEE SWC 2026 XR-HEART Workshop, Sep 2026, Rende, Italy, Sept. 2026.
+
+
+# Congrats to Siyuan and team for a spatial transcriptomics paper at VIS'26!
+_Sep 6, 2026_
+
+Congrats to Siyuan and team for a terrific paper which will be presented at VIS'26:
+S. Zhao, M.N. Nipu, H. Fathollahian, O. Karginova, H. Chen, A. Salahudeen, G.E. Marai,
+Loom: Multi-Region Analysis of Spatial Transcriptomics with Local Neighborhoods and Global Trajectories, 
+IEEE VIS'26, IEEE Trans. on Vis. and Comp. Graphics, Jan 2027. This is collaborative work with our colleagues in CS and in the Cancer Center, and was submitted to the Interaction and Design Area, on account of a novel and powerful visual encoding.
+
+
+# Collab survivorship work with MDACC published in Radiation Oncology
+_Sep 5, 2026_
+
+Congrats to our MDACC team collaborators in the MD Anderson Head and Neck Cancer Symptom Working Group for publishing this important cancer survivorship paper about sleep-related symptoms: 
+G. Carevic, R. Gaur,  W. Floyd, C.Dede, L. McCullum, C. Marquez,  S. A. Faiz,  M. M. Badawy, 
+A. Jethanandani, G. E. Marai,  A.S.R. Mohamed,  J. Mathew,  G. Canahuate, N. Mohamed, J. Phan,  S. Haidacher,  S. Mirbahaeddin, M. Spiotto,  A. Lee,  K. Hutcheson, A. Moreno, C. D. Fuller, MD Anderson Head and Neck Cancer Symptom Working Group.
+Sleep-related symptoms are associated with survival in oropharyngeal cancer radiotherapy survivors: Temporal characterization of patient-reported outcomes in a large-scale prospective longitudinal cohort,
+Radiation Oncology, Sep 2026.
+
+# New R01 NCI award to Ameen Salahudeen as ESI!
+_Sep 4, 2026_
+
+Heartfelt congratulations to UIC HDSR Institute member Ameen Salahudeen for his first R01 award, as an Early Stage Investigator, this is a huge accomplishment! The award details: 
+NIH R01 CA304878: A multimodal approach to increase accuracy and generalizability in lung cancer early detection, Co-I (PI: A. Salahudeen, other Co-Is: A. Boyd, Y. Dai, Z. Chen, M. Strahan, E. Seltzer, V. Henderson, Y. Molina, R. Hopkins), $3.2M, 09/04/2026-09/03/2030.
+
+# New R21 NIBIB award for lymphedema detection!
+_Sep 2, 2026_
+
+We (Wei Tang and I) are incredibly happy to report we have received an NIH R21 award from NIBIB: EB037290: Image-based Detection and Spatial Monitoring of Secondary Lymphedema in Head and Neck Cancer, Lead PI on multi-site project with U Texas, UIC Co-I: W. Tang, $362,880, 09/02/2026-09/01/2028. 
+
+# Nafiul comparative genome analysis paper at VCBM'26
+_Aug 30, 2026_
+
+Congrats to Nafiul Nipu and our collaborators at Los Alamos and at the National Lab of the Rockies for this paper stemming from Nafiul's internship with them: 
+N. Nipu, G. Johnson, C. Roth, D. Rogers, S. R. Starkenburg, C. R. Steadman, G. E. Marai,
+MultiPASE: Shape-Aware Comparative 3D Genome Analysis,
+EuroGraphics Visual Computing for Biology and Medicine (VCBM) 2026, Ljubljana, Slovenia, Sept. 2026
+
+
+# Collab survivorship work with UCSF published in The Laryngoscope
+_Aug 25, 2026_
+
+Congratulations to Zachary, Eric, Guadalupe and team for publishing this important cancer survivorship paper about diagnosing swallowing dysfunction:
+Z. Brumm, E. Anyimadu, M. Kohli, J. Silver, B. Manduchi, K. Hutcheson, A. Gulati, G.E. Marai, T. Crosby, C. Rosen, V. Young, G. Canahuate, Y. Ma,
+MDADI as a Screening Tool for VFSS-Graded Swallowing Impairment in Head and Neck Cancer Patients,
+The Laryngoscope 2026. This work stems from an ongoing collaboration between the University of California San Francisco, University of Iowa, and University of Illinois Chicago. It shows the MD Anderson Cancer Center MDADI survey can  be used to identify swallowing impairment without requiring burdensome video fluoroscopy swallow tests.
+
+# Third annual Institute incubator bootcamp was a success
+_Aug 24, 2026_
+
+Happy to report the 2026 Health Data Science Research Institute incubator was a success! This year's edition was a focused, highly-structured event bridging AI research and Heart, Lung, Blood and Sleep Disorders research on campus. We have made 4 seed awards to interdisciplinary teams that were formed during the bootcamp.
+
+# ConGAT paper published in Computers and Graphics and VCBM 2026
+_Aug 20, 2026_
+
+Congratulations to Hossein Fathollahian and team for publishing this important work in the Computers and Graphics journal:  
+H. Fathollahian, S. Zhao, N. Nipu, M. Salahshour, L. Duan, W. Tang, S. Boorboor, G. E. Marai. ConGAT: Context-Aware Graph Attention Visual Analysis for 3D Region of Interest Discovery in Multiplexed Microscopy Images, Computers & Graphics 2026. The work will be presented at The 16th EuroGraphics Symposium on Visual Computing for Biology and Medicine (VCBM) 2026, in Ljubljana, Slovenia.
+
+
+# VIS'26 area chairing wrap-up
+_Aug 10, 2026_
+
+Happy to wrap up my Applications Area chairing duties for IEEE VIS'26. It's been such a pleasure working with Wes and Renata.
+
+
+# Nafiul Nipu doctoral defense!
+_July 28, 2026_
+
+Congratulations to Nafiul Nipu on his successful PhD defense! Nafiul has had a distinguished doctoral trajectory at UIC, marked by significant accolades and awards, including a CoE Excellence in Teaching award, and inclusion in the IEEE Computing Edge magazine.
+
+# ISMB Keynote
+_July 13, 2026_
+
+I am honored to deliver an ISMB Keynote in Washington DC. The title is: Healthy Skepticism in AI: a BioVis Research Agenda, and the Keynote is hosted by the BioVis COSI track.
+
+
+
+# Sanjana Srabanti doctoral defense!
+_July 8, 2026_
+
+Congratulations to Sanjana Srabanti on her successful PhD defense! Proud of how far you have come along, Sanjana, and of all your accomplishments! Sanjana is being co-advised by my EVL colleague Fabio Miranda, who should receive full advising credit for her uncertainty vis and urban analytics work.
+
+# Research faculty mentor to 19 faculty in the past 2 years
+_June 15, 2026_
+
+I was stunned to realize I have research-mentored 7 faculty members across colleges in 2025-2026, and 12 faculty members across colleges in 2024-2025, through the UIC Institute for Health Data Science Research that I co-direct with Andy Boyd. These are quarterly small-group research-focused mentoring meetings that Andy and I have jointly with each seed awardee team. They definitely require more effort than standard faculty mentoring sessions in CS, but they are so rewarding.
+
+
+
+# BioVis Vis research and software gap paper at VisGap EuroVis'26
+_June 5, 2026_
+
+A nice paper ensuing from the BioMedVis Dagstuhl meeting earlier this year:
+J. Aerts, M. Behrisch, K. Bühler, J. Byška, M. Flotho, K. Furmanová, P. Huo,
+H. Jambor, B. Kozlikova, G. E. Marai, M. Siwek, A. van den Brandt (alphabetical order)
+How to Initiate Communication and Foster Collaboration between Biomedical and Visualization Experts, The Gap between Visualization Research and Visualization Software (VisGap) Workshop June 2026.
+
+
+
+# Long-term symptom burden paper at ICHI 2026
+_June 1, 2026_
+
+Congrats to Guadalupe and team for this paper on long-term symptom burden modeling for survival prediction: 
+Y. Wang, E. Anyimadu, C. D. Fuller, A. C. Moreno, X. Zhang, G. E. Marai,  G. Canahuate, 
+Improving Survival Prediction of Head and Neck Cancer Patients by Modeling Long-term Symptom Burden, IEEE Conference on Health Informatics (ICHI) June 2026.
+
+
+# Congrats to Frank and Hrushi on their MS graduation!
+_May 10, 2026_
+
+Congrats to Frank Wang on his MS graduation! Frank has been such a tremendous contributor to the UIC ARPA-H project, where he designed the COMPASS visual analysis interface for patient discharges. Congrats to Hrushi Joshi on his MS graduation! Hrushi has helped with the flavor charter interface updates and recruitment.
+
+
+# College Teaching Excellence Award to Nafiul!
+_May 5, 2026_
+
+Congrats and well-deserved to Nafiul Nipu for receiving an UIC College of Engineering Excellence in Teaching Award 2025! Nafiul has been repeatedly called The GOAT (the Greatest of All Times) by our students.
+
+# BioVis Meetups webinar
+_Apr 15, 2026_
+
+I am so happy to deliver the BioVis Meetups Apr 2026 webinar. The presentation is titled: Recent Trends and Challenges in Biological Data Visualization, and the recording will be available through the biovis.net website.
+
+
+# Best Paper Award at ACM SAC 2026!
+_Mar 25, 2026_
+
+Heartfelt congratulations to Eric Anyimadu and team on receiving a Best Paper Award in Information Systems at the ACM Symposium on Applied Computing 2026 in Thessaloniki, Greece! The paper is authored by E. Anyimadu, X. Zhang, C.D. Fuller, G. E. Marai, G. Canahuate, its title is Advancing Normal Tissue Complication Probability Modeling with Supervised Contrastive Learning for Predicting Osteoradionecrosis, and it was submitted to the ASH Track (Applied Computing in Healthcare) at the ACM Symposium on Applied Computing (SAC) 2026.
+
+# Short paper at ACM SAC 2026
+_Mar 25, 2026_
+
+Congrats to Filipo, Xinhua and team for a highly competitive short paper at ACM SAC 2026: F. Corna, X. Zhang, G. Canahuate, S. K. Attia, A. S. Mohamed, M. Naser, C. D. Fuller, G.E. Marai, Imitation Learning with Superhuman Policy Gradient Optimization for Sequential Cancer Treatment Decisions, ASH Track (Applied Computing in Healthcare) Short Papers/Poster Program at the ACM Symposium on Applied Computing (SAC) 2026, Thessaloniki Greece, March 2026. (6% acceptance rate).
+
+# Eurogin'26 medical congress presentation
+_Mar 15, 2026_
+
+I am honored to present my group's work at the Eurogin medical congress in Vienna, Austria. I have been invited to speak in the AI Forum track about Web-based Survival and Toxicity Prediction Systems.
+
+
+# Second-gen Ensembles paper in Computer Graphics Forum
+_Mar 5, 2026_
+
+Congratulations to Nafiul Nipu for having this core component of his PhD dissertation published: N. Nipu, S. Zhao, B. Maharathi, J.A. Loeb, G.E. Marai,
+Neurosurgery Network Pattern Analysis with 2nd Generation Ensembles,
+Computer Graphics Forum, March 2026.
+
+# Working on new CS concentration on gaming
+_Feb 15, 2026_
+
+I am designing and shepherding (with S. Boorboor) a new BS in CS concentration on Gaming and Real-Time Computing, to help with CS undergraduate recruitment.
+
+
+# JCO Clinical Cancer Informatics paper
+_Feb 1, 2026_
+
+Congratulations to the Cancer Center team led by Dr. Ameen Salahudeen for a new JCO Clinical Cancer Informatics paper: A.A. Salahudeen, A.J. Zakkar, N. Perwaiz, V. Harikrishnan, W. Zhong, V. Narra, F. Yousef, D. Kim, M. Burrage-Burton, A. A. Lawal, V. K. Gadi, M. C. Korpics, S. J. Kim, Z. Chen, A. A. Khan, Y. Molina, Y. Dai, G. E. Marai, H. Meidani, R. H. Nguyen, A hybrid computer vision model to predict lung cancer in diverse populations, JCO Clinical Cancer Informatics, Feb 2026.
+
+# Francesco MS graduation!
+_Dec 5, 2025_
+
+Heartfelt congratulations to Francesco Botto for his successful MS thesis defense! Francesco not only built a smartphone app for flavor survey collection and shepherded recruitment and enrollment, he also built an interface for analyzing the results.
+
+
+# Siyuan paper in Nucleic Acids Research!
+_Dec 4, 2025_
+
+Congrats to Lei and Siyuan (roommates!) for a prestigious publication stemming from a course they took together with my colleague Prof. Chattopadhyay and which they kept refining over the past year: C. Chronis, M. Chen, L. Du, S. Zhao, B. Ye, P. Delafrouz, H. Farooq, D. Chattopadhyay, G.E. Marai, Z. Shao, J. Liang, D.M. Czajkowsky, ChromPolymerDB: A High-Resolution Database of Single-Cell 3D Chromatin Structures for Functional Genomics, NAR-02636-2025, Nucleic Acids Research, 2025.
+
+
+# BioMedVis Challenge 2025 Award to Hossein Fathollahian and team
+_Nov 25, 2025_
+
+Congratulations to Hossein Fathollahian and team on receiving a BioMedVis Challenge 2025 Award of Merit at VIS 2026! The Awards of Merit recognize outstanding research submissions addressing the challenge which have a student first author. The submission details are: H. Fathollahian, S. Zhao, M. Nipu, G.E. Marai, Attention-based Region of Interest Discovery in 3D Tissue Images, IEEE BioMedVis Challenge 2025.
+
+# New Dataset and Descriptor published!
+_Nov 15, 2025_
+The ORN dataset behind the earlier ORN Predictor software we developed last year is now publicly available, along with the dataset prediction: N. West, S. Kamel, A. Wentzel, Z. Kaffey. M. Abdelaal, G.E. Marai, G. Canahuate, X. Zhang, M. Chen, K. Wahid, J. Rigert, K. Brock, M. Chambers, A. Otun, R. Aponte-Wesson, R. He, M. Naser, K. Hutcheson, A. Mohamed, L. van Dijk, A. Moreno, S. Lai, C.D. Fuller, L. Humbert-Vidan, Clinical and dosimetric dataset of time-to-event normal tissue complication probability for osteoradionecrosis, Nature Scientific Data, Nov 2025
+
+
+# New project collecting food flavor data published
+_Nov 12, 2025_
+
+Congrats to Francesco et al. for this paper describing our efforts to capture the flavor of a canonical set of foods: F. Botto, G. Canhuate, X. Zhang, C. D. Fuller, G. E. Marai, FlavorCharter: Development of a Smartphone App for Quantifying Food Flavor, Workshop on Computational Gastronomy: Data Science for Food and Cooking (CoGamy) at the International Conference on Data Mining (ICDM) 2025, pp. 1-7, Washington DC, November 12 2025.
+
+
+# VAHC'25 Keynote
+_Nov 7, 2025_
+
+I am honored to deliver the Keynote at the Visual Analytics in Healthcare 2025 meeting at IEEE VIS 2025 in Vienna, Austria. The keynote title is: The Blackbox Patient and the Power of Many.
+
+
+# New patient-reported-outcomes work at EMBS 2025
+_Oct 26, 2025_
+
+Congrats to Eric, Guadalupe and team for another important work on patient reported outcomes data: E. Anyimadu, X. Zhang, C.D. Fuller, G. E. Marai, G. Canahuate, Attention-Augmented Bi-Directional LSTM for Improved Forecasting of Patient-Reported Outcomes, BHI 2025 IEEE-EMBS International Conference on Biomedical and Health Informatics, Atlanta, Georgia, October 26-29, 2025.
+
+
+# CG&A Special Issue on BioVis published!
+_Sep 30, 2025_
+
+So happy to see this labor of love published! The BioVis Special Issue on Recent Trends and Challenges in Biological Data Visualization is out in the IEEE Comp. Graphics & Applications Sep/Oct 2025 issue. This was a joint editorial effort with the wonderful Jillian Aurisano at the University of Cincinnati.
+
+
 # The 2nd Health Data Science Institute bootcamp is a success
 _Aug 25, 2025_
 
